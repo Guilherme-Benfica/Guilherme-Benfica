@@ -3,6 +3,20 @@
 - 👀 I'm in career transition, getting to know a new market and testing new skills.
 - 🌱  I'm currently focused on C, C++, C#, asp.net; .net 6; Python e Java.
 
+##
+
+<div align="center">
+  <a href="https://github.com/thallyta-castro-cv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benfica&layout=compact&langs_count=7&theme=radical"/>
+</div>
+   
+##
+
+
+
+
+
 
 
 <div>
