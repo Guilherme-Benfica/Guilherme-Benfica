@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guilherme Benfica.
 -  🦾 Technology academic training in industrial automation.
 - 👀 I'm in career transition, getting to know a new market and testing new skills.
-- 🌱  I'm currently focused on C, C++, C#, asp.net; .net 6; Python e Java.
+- 🌱  I'm currently focused on C | C++| C# | asp.net | .net 6 | Python e Java.
 
 ##
 
