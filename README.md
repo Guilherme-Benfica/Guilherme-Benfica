@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guilherme Benfica.
 -  🦾 Technology academic training in industrial automation.
 - 👀 I'm in career transition, getting to know a new market and testing new skills.
-- 🌱  I'm currently focused on C | C++| C# | asp.net | .net 6 | Python e Java.
+- 🌱  I'm currently focused on C | C++| C# | asp.Net | .Net 6 | Python e Java.
 
 ##
 
@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Benfica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benfica&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benfica&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
 
