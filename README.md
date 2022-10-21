@@ -20,7 +20,21 @@
 ##
 
 
-  
+   <footer>
+                <div class="competencias">
+                    <h1>Habilidades</h1>
+                    <div class="icones">
+                        <img src="https://img.icons8.com/color/344/html-5--v1.png">
+                        <img src="https://img.icons8.com/color/344/css3.png">
+                        <img src="https://img.icons8.com/color/344/flutter.png">
+                        <img src="https://img.icons8.com/color/344/angularjs.png">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
+                        <div class="sql">
+                            <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png">
+                        </div>
+                    </div>
+                </div>
+            </footer>
 
 <div>
    <a href = "mailto:guilhermee.benfica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
