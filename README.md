@@ -1,44 +1,110 @@
-- 👋 Hi, I’m @Guilherme Benfica.
--  🦾 Technology academic training in industrial automation.
-- 👀 Coding my future, getting to know new technologies and testing new skills.
-- 🌱  I'm currently focused on C | C++| C# | asp.Net | .Net 6 | HTML | CSS | JavaScript | ReactJS.
+<h1 align="center">👋 Guilherme Benfica</h1>
 
-##
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior%20Developer-111827?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Architect-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-7c3aed?style=for-the-badge" />
+</p>
 
+<p align="center">
+  Senior Full Stack Developer & Software Architect with experience in banking, investments, insurance, and e-commerce platforms.
+  Focused on scalable systems, cloud-native applications, software architecture, and high-performance APIs.
+</p>
 
+---
 
+## 🎓 Education
 
+- 🎓 Degree in Industrial Automation
+- 🎓 B.Sc. in Computer Engineering
+- ☁️ Postgraduate Studies in Software Architecture & Cloud Computing
 
+---
 
-<div align="center">
-  <a href="https://github.com/Guilherme-Benfica">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benfica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benfica&layout=compact&langs_count=7&theme=radical"/>
-</div>
-   
+# 🚀 Tech Stack
 
+### 💻 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,visualstudio,redis,rabbitmq" />
+</p>
 
-## Tecnologias Usadas:
-  
-  <div style="display: inline_block">
-  <img align="center" alt="Benfica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Benfica-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Benfica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Benfica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Benfica-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Benfica-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Benfica-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Benfica-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Benfica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Benfica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
-  
-  ##
-  
-<div>
-   <a href = "mailto:guilhermee.benfica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-benfica" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-   
-  
+C# • .NET 6/8 • ASP.NET Core • REST APIs • Microservices • RabbitMQ • JWT • Auth0
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap" />
+</p>
+
+React.js • Angular • JavaScript • TypeScript • Bootstrap
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git" />
+</p>
+
+AWS • Azure • Docker • Kubernetes • CI/CD • GitHub Actions • Azure DevOps
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" />
+</p>
+
+SQL Server • Oracle • MongoDB
+
+---
+
+### 🏗️ Architecture & Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SOLID-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-f97316?style=for-the-badge" />
+</p>
+
+SOLID • DDD • Design Patterns • Clean Architecture • Agile • xUnit
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-AZ--500-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Copilot_Certified-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-benfica/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Guilherme-Benfica" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/users/guilherme-benfica/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge" />
+  </a>
+</p>
